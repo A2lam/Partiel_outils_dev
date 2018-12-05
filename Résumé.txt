@@ -1,0 +1,13 @@
+Résumé du rendu:
+
+L'ensemble des technologies utilisées sont :
+
+    - Babel : Étant plus à l'aise avec la syntax es6 que es5 j'installé ce plugin pour la compilation
+    de mon code en es5
+
+    - Docker : J'ai initialisé un environnement Docker pour garantir la portabilité de mon projet
+    et de son environnement d'execution
+
+    - Eslint : Pour le respect de la syntaxe de la bonne pratique du codage en es6
+
+    - Sonnar : Pour un suivi régulier de la qualité du code et du coverage de celui-ci par les tests
