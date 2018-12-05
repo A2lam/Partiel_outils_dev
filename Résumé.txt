@@ -13,3 +13,5 @@ L'ensemble des technologies utilisées sont :
     - Sonnar : Pour un suivi régulier de la qualité du code et du coverage de celui-ci par les tests
 
 Lien github du projet : https://github.com/A2lam/Partiel_outils_dev
+
+Lien Heroku : https://git.heroku.com/partieloutilsdev.git
