@@ -11,3 +11,5 @@ L'ensemble des technologies utilisées sont :
     - Eslint : Pour le respect de la syntaxe de la bonne pratique du codage en es6
 
     - Sonnar : Pour un suivi régulier de la qualité du code et du coverage de celui-ci par les tests
+
+Lien github du projet : https://github.com/A2lam/Partiel_outils_dev
