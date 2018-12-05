@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/A2lam/Partiel_outils_dev/issues"
   },
-  "homepage": "https://github.com/A2lam/Partiel_outils_dev#readme"
+  "homepage": "https://github.com/A2lam/Partiel_outils_dev#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
 }
