@@ -3,6 +3,7 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import homeRoute from './routes/home';
 import searchRoute from './routes/search';
+import createRoute from './routes/create';
 
 dotenv.config();
 
@@ -12,6 +13,7 @@ app.use(bodyParser.json());
 
 app.get('/', homeRoute);
 app.get('/:search', searchRoute);
+app.post('/', createRoute);
 
 app.listen(process.env.PORT, () => console.log('Listening...'));
 
