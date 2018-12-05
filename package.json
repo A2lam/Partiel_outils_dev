@@ -1,0 +1,20 @@
+{
+  "name": "api-poi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A2lam/Partiel_outils_dev.git"
+  },
+  "author": "Allam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A2lam/Partiel_outils_dev/issues"
+  },
+  "homepage": "https://github.com/A2lam/Partiel_outils_dev#readme"
+}
